@@ -1,0 +1,59 @@
+GEOID,pop,white,County,Rate,Counts
+06001,1661584,631037,"Alameda County, California",11.838,200
+06003,1159,663,"Alpine County, California",0,0
+06005,39023,33040,"Amador County, California",7.86,3
+06007,223344,178568,"Butte County, California",22.832,52
+06009,45828,40058,"Calaveras County, California",6.795,3
+06011,21491,17012,"Colusa County, California",17.49,4
+06013,1147788,608789,"Contra Costa County, California",13.268,155
+06015,27692,20002,"Del Norte County, California",52.255,14
+06017,190345,164552,"El Dorado County, California",15.262,29
+06019,990204,597574,"Fresno County, California",9.718,100
+06021,28060,22478,"Glenn County, California",13.692,4
+06023,136101,107151,"Humboldt County, California",50.695,68
+06025,180580,102305,"Imperial County, California",11.4,22
+06027,17930,13705,"Inyo County, California",16.538,3
+06029,892458,603368,"Kern County, California",27.315,254
+06031,151090,95764,"Kings County, California",8.965,14
+06033,64276,48712,"Lake County, California",35.86,23
+06035,30600,24181,"Lassen County, California",30.157,9
+06037,10040682,4795186,"Los Angeles County, California",15.035,1535
+06039,155925,94643,"Madera County, California",5.532,9
+06041,259441,199068,"Marin County, California",12.027,31
+06043,17319,15134,"Mariposa County, California",11.39,2
+06045,87110,69709,"Mendocino County, California",39.615,35
+06047,273661,139469,"Merced County, California",9.703,28
+06049,8853,7801,"Modoc County, California",10.668,1
+06051,14395,11966,"Mono County, California",7.195,1
+06053,432977,209849,"Monterey County, California",7.155,32
+06055,138572,98614,"Napa County, California",13.623,19
+06057,99417,91597,"Nevada County, California",17.32,17
+06059,3170345,1826960,"Orange County, California",17.495,563
+06061,391799,314938,"Placer County, California",10.982,44
+06063,18844,16679,"Plumas County, California",0,0
+06065,2437864,1358654,"Riverside County, California",20.348,510
+06067,1537948,839349,"Sacramento County, California",12.152,191
+06069,61547,45157,"San Benito County, California",11.27,7
+06071,2162532,1212480,"San Bernardino County, California",16.195,359
+06073,3323970,2213608,"San Diego County, California",19.693,661
+06075,874784,392476,"San Francisco County, California",34.767,312
+06077,751615,387165,"San Joaquin County, California",11.867,93
+06079,282517,233297,"San Luis Obispo County, California",25.425,71
+06081,765623,369924,"San Mateo County, California",9.26,72
+06083,444895,319547,"Santa Barbara County, California",9.227,42
+06085,1924379,801381,"Santa Clara County, California",6.74,134
+06087,273170,195781,"Santa Cruz County, California",22.825,63
+06089,179267,152586,"Shasta County, California",20.375,36
+06091,2898,2722,"Sierra County, California",0,0
+06093,43516,36195,"Siskiyou County, California",39.383,17
+06095,444538,225258,"Solano County, California",13.143,59
+06097,496801,360200,"Sonoma County, California",17.1,86
+06099,546235,384703,"Stanislaus County, California",20.483,116
+06101,96315,61307,"Sutter County, California",18.04,18
+06103,64176,53987,"Tehama County, California",26.555,17
+06105,12541,10694,"Trinity County, California",7.6,1
+06107,463955,309798,"Tulare County, California",9.48,46
+06109,54147,46905,"Tuolumne County, California",13.545,7
+06111,845599,637686,"Ventura County, California",19.73,168
+06113,218774,145299,"Yolo County, California",9.195,21
+06115,77524,56990,"Yuba County, California",24.152,19

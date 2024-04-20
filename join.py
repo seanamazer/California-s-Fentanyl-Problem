@@ -23,13 +23,14 @@ merged = merged.set_index('GEOID')
 merged['poc'] = merged['pop'] - merged['white']
 merged ['poc_percent'] = merged['poc']/merged['pop']
 
-# Add column for total OD count
-
-merged ['counts_annualized'] = merged ['Counts'] * 4
-
 # Add column for pop in Millions
 
 merged ['pop_mils'] = merged ['pop'] / 1000000
+
+# Add column for count percent of CA
+
+merged ['count_percent'] = (merged ['Counts'] / 
+                            merged ['Counts'].sum())*100
 
 # Read Census 2020 shape file
 

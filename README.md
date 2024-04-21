@@ -44,7 +44,7 @@ pop_by_county.csv, merged.csv, counties.csv, od_year.csv, od_age.csv, counties.s
 
 <b>Steps:</b>
 1. Collect the Census data with an API call by running the collect.py script, ensure you have a Census API key and replace it with mine. This call will produce a data frame (df) with County names in California with their respective population count and number of citizens that report themselves as "White".
-2. I downloaded the California data files mentioned above by clicking on their dashboard at the website linked above,selecting the Display Options, checking deaths, fentanyl, total population, crude rate, annual, 2022. You then can cick download as .csv file for analysis.
+2. I downloaded the California data files mentioned above by clicking on their dashboard,selecting the Display Options, checking deaths, fentanyl, total population, crude rate, annual, 2022. You then can cick download as .csv file for analysis.
 3. The second script, county_merge.py, joins together the Census df and the county overdose data from the State of California.
 4. Then I joined this merged data onto the Census' cartographic boundaries (5m) with join.py, this allowed for me to build the geometry for each county which will be utilized later in QGIS and Tableau to build the dashboard.
 5. The next two scripts, year.py and od_age.py, were rather short to clean up the data to allow Tableau to read the csvs properly. This was for the last two csvs, by age and by year.

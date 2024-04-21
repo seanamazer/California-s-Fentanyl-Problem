@@ -48,7 +48,7 @@ pop_by_county.csv, merged.csv, counties.csv, od_year.csv, od_age.csv, counties.s
 3. The second script, county_merge.py, joins together the Census df and the county overdose data from the State of California.
 4. Then I joined this merged data onto the Census' cartographic boundaries (5m) with join.py, this allowed for me to build the geometry for each county which will be utilized later in QGIS and Tableau to build the dashboard.
 5. The next two scripts, year.py and od_age.py, were rather short to clean up the data to allow Tableau to read the csvs properly. This was for the last two csvs, by age and by year.
-6. I then utilized QGIS to convert counties into a shape file, counties.shp.
+6. I then utilized QGIS to convert counties.csv into a shape file, counties.shp.
 7. I then uploaded all three products into Tableau to create the dashboard linked above. (counties.shp, od_year.csv and od_age.csv)
 
 # Findings

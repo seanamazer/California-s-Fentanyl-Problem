@@ -1,6 +1,6 @@
 # California's Fentanyl Problem
 
-California has experienced an unprecedented climb in overdose deaths over the past four years, primarily contributed to the opioid Fentanyl. This GitHub repository analyzes the State's data related to these deaths combined with data from the U.S. Census Bureau. Please visit the Tableau dashboard listed below to interact with the data. Below is an overview of my process to repeat this analysis for future data releases and all py scripts are embedded with comments. Furthermore, I provide my findings in the data with some reccomendations for the State to ensure support and enforcement mechanisms are focused proportionately in the appropriate counties.
+California has experienced an unprecedented climb in overdose deaths over the past four years, primarily contributed to the opioid Fentanyl. This GitHub repository analyzes the State's data related to these deaths combined with data from the U.S. Census Bureau. Please visit the Tableau dashboard listed below to interact with the data. Below is an overview of my process to repeat this analysis for future data releases and all py scripts are embedded with comments. Furthermore, I provide my findings in the data with some recommendations for the State to ensure support and enforcement mechanisms are focused proportionately in the appropriate counties.
 
 <b> Tableau Dashboard: </b> 
 https://public.tableau.com/app/profile/sean.mazer/viz/ca_fentanyl/CaliforniasFentanylProblem
